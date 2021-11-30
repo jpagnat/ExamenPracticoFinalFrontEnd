@@ -274,7 +274,7 @@ footer ul li a:hover {
 
 
 /*Media Queries*/
-@media (max-width: 376px) {
+@media (max-width: 768px) {
     html {
         font-size:14px;
     }
